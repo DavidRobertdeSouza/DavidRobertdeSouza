@@ -1,10 +1,10 @@
 # README### Bem vindo(a)! Me chamo David Robert👋
 
 
-
-- 🔭 Estou atualmente estagiando na área de desenvolvimento de software.
-- 🌱 Estou estudando FrontEnd (HTML, CSS e JS)
-- ⚡ Gosto de filmes, natureza e Tecnologia!
+- 🔭 Atualmente estou estagiando na área de desenvolvimento de software na Imagem Geosistemas.
+- 👨🏽‍💻 Cursando Banco de Dados e formado em técnico em Desenvolvimento de Sistemas
+- 🌱 Estudante de FrontEnd (HTML, CSS e JS)
+- ⚡ Amante de filmes, da natureza e tecnologia!
 
 <div align="center">
   <a href="https://github.com/DavidRobertdeSouza">
