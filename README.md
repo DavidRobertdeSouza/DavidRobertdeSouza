@@ -1,9 +1,9 @@
 Bem vindo(a)! Me chamo David Robert👋
 
 
-- 🔭 Atualmente estou estagiando na área de desenvolvimento de software na Imagem Geosistemas.
-- 👨🏽‍💻 Cursando Banco de Dados e formado em técnico em Desenvolvimento de Sistemas
-- 🌱 Estudante de FrontEnd (HTML, CSS e JS)
+- 🔭 Atualmente estou trabalhando como Desenvolvedor FrontEnd na Multipedidos e tambem tenho uma aplicação chamada QHORAS.
+- 👨🏽‍💻 Formado em Banco de Dados e formado em técnico em Desenvolvimento de Sistemas
+- 🌱 Desenvolvedor React/Redux, Angular, Node e o que vier!
 - ⚡ Amante de filmes, da natureza e tecnologia!
 
 <div align="center">
